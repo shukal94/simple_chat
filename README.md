@@ -10,4 +10,4 @@ first, stop client, and then server :)
 last lab on the first  semester of Computer security (authorization and authentication)
 
 # TASK:
-investigate some points of improve of this app
+investigate some points of improve of this app. Feel free to open the issues if you'll find one.
